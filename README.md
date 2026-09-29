@@ -30,9 +30,9 @@ Retail sales dashboard analyzing category-wise sales, sub-category performance, 
 
 **Tools:** Excel, PivotTables, PivotCharts, Slicers, Timeline
 
----
-
 [View Project](<./DMart Sales Analysis>)
+
+---
 
 ### 4. McDonald's Sales Analysis
 
